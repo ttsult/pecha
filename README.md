@@ -1,7 +1,6 @@
-# Features
+# TODOs
 
-(1). Dictionary-like translation
--  supports image and audio.
+-> Setup front-end (flask?)
+    bar to search that feeds to output in other bar
 
-(2). most-recent search based flashcard.
-- with progress bar
+-> setup user authentication
